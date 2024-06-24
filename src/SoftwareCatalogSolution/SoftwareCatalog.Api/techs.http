@@ -7,6 +7,12 @@ Content-Type: application/json
 {
   "firstName": "Bob",
   "lastName": "Smith",
+
   "email": "bob@aol.com",
-  "phone": "555-1212"
+  "phone": "867-5309"
 }
+
+
+### 
+
+GET {{address}}/techs/eb747a30-ba14-4495-8afc-e923f32ec624
