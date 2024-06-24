@@ -1,0 +1,12 @@
+@address = http://localhost:1337
+
+
+POST {{address}}/techs
+Content-Type: application/json
+
+{
+  "firstName": "Bob",
+  "lastName": "Smith",
+  "email": "bob@aol.com",
+  "phone": "555-1212"
+}
